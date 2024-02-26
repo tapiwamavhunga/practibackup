@@ -1,0 +1,1 @@
+<?php echo e(include base_path() . "/vendor/rakutentech/laravel-request-docs/resources/dist/index.html"); ?><?php /**PATH /srv/users/practitionernew/apps/practitionernew/vendor/rakutentech/laravel-request-docs/src/../resources/views/index.blade.php ENDPATH**/ ?>
